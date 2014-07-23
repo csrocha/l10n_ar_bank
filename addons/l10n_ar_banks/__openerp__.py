@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-# Copyright (C) 2012 OpenERP - Team de Localización Argentina.
-# https://launchpad.net/~openerp-l10n-ar-localization
+# Copyright (C) 2014 Otra localización argentina de Odoo.
+# http://odoo-l10n-ar.github.io/
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -18,6 +18,7 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
+
 {   'active': False,
     'author': 'OpenERP - Team de Localizaci\xc3\xb3n Argentina',
     'category': 'Localization/Argentina',
@@ -36,4 +37,5 @@
                       'wizard/wiz_l10n_ar_bank.xml'],
     'version': '2.7.231',
     'website': 'https://github.com/odoo-l10n-ar/l10n-ar-banks'}
+
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
